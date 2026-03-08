@@ -224,7 +224,7 @@ Planned improvements include:
 
 ---
 
-## 🏆 AWS Hackathon Vision
+## 🏆 Project Vision
 
 By combining **AI-powered retinal diagnostics with AWS cloud scalability**, Retino-AI aims to create a **national-level retinal screening platform** capable of serving **millions of diabetic patients across Bharat**.
 
